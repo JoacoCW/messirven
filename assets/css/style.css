@@ -431,8 +431,9 @@ section {
 --------------------------------------------------------------*/
 .menu-title {
   color: #ac1f26;
-  font-weight: bold;
+  font-weight: 550;
   margin-top: 30px;
+  font-family: "Algeria", sans-serif;
 }
 
 .menu-item {
