@@ -354,6 +354,10 @@ h6 {
   #hero {
     background-attachment: fixed;
   }
+
+  #hero .container {
+    margin-left: 100px;
+  }
 }
 
 @media (max-width: 768px) {
@@ -438,8 +442,14 @@ section {
 }
 
 .divisor {
-  width: 15%;
   margin-bottom: 40px;
+  width: 40%;
+}
+
+@media (min-width: 1024px) {
+  .divisor {
+    width: 15%;
+  }
 }
 
 /*--------------------------------------------------------------
