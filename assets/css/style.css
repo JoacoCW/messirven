@@ -347,7 +347,7 @@ h6 {
 #hero h2 {
   color: #eee;
   margin-bottom: 40px;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 @media (min-width: 1024px) {
@@ -521,7 +521,7 @@ section {
   padding: 120px 0;
 }
 
-.cta h3 {
+.cta h4 {
   color: #fff;
   font-size: 28px;
   font-weight: 700;
