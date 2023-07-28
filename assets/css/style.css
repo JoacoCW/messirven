@@ -315,7 +315,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero1.jpg") top center;
+  background: url("../img/hero2.jpg") top center;
   background-size: cover;
   position: relative;
 }
@@ -518,7 +518,7 @@ section {
 --------------------------------------------------------------*/
 .cta {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("../img/hero2.jpg") fixed center center;
+    url("../img/hero3.jpg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
